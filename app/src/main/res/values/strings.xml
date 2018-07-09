@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CardApp</string>
+
+    <!--ACTIVITY MY PAYMENT CARD-->
+    <string name="activity_payment_card">My Payment Card</string>
+    <string name="btn_add_new_card">+ Add New Card</string>'
+
+    <!--CARD ITEM-->
+    <string name="card_item_default">Default Card</string>
+    <string name="card_item_number">Card number</string>
+    <string name="card_item_expiry">Expiry</string>
+
+    <!--ADD NEW CARD-->
+    <string name="activity_add_new_card">Add New Card</string>
+    <string name="card_number">CARD NUMBER*</string>
+    <string name="card_holder_name">CARD HOLDER NAME*</string>
+    <string name="valid">VALID THRU*</string>
+    <string name="cvv">CVV*</string>
+    <string name="btn_done">done</string>
+    
+</resources>
